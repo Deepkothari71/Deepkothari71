@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Deepkothari71
 - 👀 I’m interested in ethical hacking 
 - 🌱 I’m currently learning 12th science
-- 💞️ I’m looking to collaborate on coding learning
 - 📫 How to reach me deep.kothari.71
 
 <!---
