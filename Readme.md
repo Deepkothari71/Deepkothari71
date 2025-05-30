@@ -4,7 +4,7 @@
 
 ###
 <div>
-  <h2 align="center">Hi 👋! My name is Deep Kothari <img class="rounded-image" src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" alt="awjunaid" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;" align="right"> </h2>
+  <h2 align="center">Hi 👋! My name is Deep Kothari </h2>
 </div>
 
 <div align="left">
@@ -132,6 +132,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=deepkothari71&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" width="250px" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepkothari71&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="365px" height="150" alt="languages graph"/>
+  <img class="rounded-image" src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" alt="awjunaid" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;" align="right">
 </div>
 
 
