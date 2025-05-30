@@ -149,3 +149,9 @@
 <p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deepkothari71&theme=dark&hide_border=true" alt="deepkothari71" /></p>
 
 <img src="https://github.com/Deepkothari71/Deepkothari71/blob/output/snake.svg" alt="Snake animation" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Deepkothari71/Deepkothari71/blob/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Deepkothari71/Deepkothari71/blob/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
