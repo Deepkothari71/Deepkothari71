@@ -21,7 +21,7 @@
 ## Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="6" />
+  
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo" />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" />
