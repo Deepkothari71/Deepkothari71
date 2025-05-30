@@ -11,7 +11,7 @@
 </div>
 
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/77579d24-e604-4b54-b28b-f2cbee401353" alt="stackoverflow logo" />
+  <img src="https://github.com/user-attachments/assets/77579d24-e604-4b54-b28b-f2cbee401353" width="600" alt="stackoverflow logo" />
 </div>
 
 <br clear="both">
