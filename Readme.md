@@ -7,7 +7,7 @@
 <h2 align="center">Hi 👋! My name is Deep Kothari</h2>
 
 <div align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" alt="stackoverflow logo" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="stackoverflow logo" />
 </div>
 
 
