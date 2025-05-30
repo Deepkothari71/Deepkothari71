@@ -134,6 +134,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepkothari71&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<div align="right">
+  <img src = "https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif"> 
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Deepkothari71/Deepkothari71/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Deepkothari71/Deepkothari71/blob/output/github-snake.svg" />
