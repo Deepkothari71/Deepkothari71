@@ -148,4 +148,4 @@
 </div>
 <p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deepkothari71&theme=dark&hide_border=true" alt="deepkothari71" /></p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Deepkothari71/Deepkothari71/blob/output/snake.svg" alt="Snake animation" />
