@@ -128,7 +128,7 @@
 
 ## 📊 GitHub 3D Contributions
 ###
-  <img class="rounded-image" src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" alt="catu" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;" align="right">
+  <img class="rounded-image" src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" alt="catu" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;" >
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=deepkothari71&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" width="250px" alt="stats graph"  />
