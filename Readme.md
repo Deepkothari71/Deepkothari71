@@ -142,11 +142,10 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepkothari71&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepkothari71&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
-<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deepkothari71&theme=dark&hide_border=true" alt="deepkothari71" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=deepkothari71&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepkothari71&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Deepkothari71/Deepkothari71/blob/output/github-snake-dark.svg" />
