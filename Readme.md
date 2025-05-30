@@ -35,6 +35,8 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" />
   <img width="6" />
+  <img src="https://skillicons.dev/icons?i=next" height="30" alt="next logo"/>
+  <img width="6">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
@@ -54,9 +56,6 @@
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo" />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=redis" height="30" alt="redis logo" />
 </div>
 
 ## DevOps & Hosting
@@ -82,9 +81,6 @@
   <img width="6" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm logo" />
   <img width="6" />
-  <img src="https://cdn.simpleicons.org/babel/F9DC3E" height="30" alt="babel logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=gradle" height="30" alt="gradle logo" />
 </div>
 
 ## Design & UI/UX
@@ -93,9 +89,6 @@
   <img width="6" />
   <img src="https://cdn.simpleicons.org/canva/3B45D6" height="30" alt="canva logo" />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="30" alt="materialui logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo" />
 </div>
 
 ## Platforms
@@ -111,8 +104,6 @@
 
 ## Others
 <div align="left">
-  <img src="https://cdn.simpleicons.org/stackoverflow/FE7A16" height="30" alt="stackoverflow logo" />
-  <img width="6" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="tensorflow logo" />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=threejs" height="30" alt="threejs logo" />
