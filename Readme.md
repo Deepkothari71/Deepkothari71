@@ -152,5 +152,5 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepkothari71/deepkothari71/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepkothari71/deepkothari71/output/snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/deepkothari71/deepkothari71/output/snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/deepkothari71/deepkothari71/output/snake.svg" />
 </picture>
