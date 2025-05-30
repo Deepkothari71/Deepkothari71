@@ -135,6 +135,15 @@
   <img class="rounded-image" src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" alt="catu" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;" align="right">
 </div>
 
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepkothari71/deepkothari71/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepkothari71/deepkothari71/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/deepkothari71/deepkothari71/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Deepkothari71/Deepkothari71/blob/output/github-snake-dark.svg" />
