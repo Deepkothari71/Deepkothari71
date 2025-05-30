@@ -70,11 +70,7 @@
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="gitlab logo" />
-  <img width="6" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=webpack" height="30" alt="webpack logo" />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm logo" />
   <img width="6" />
