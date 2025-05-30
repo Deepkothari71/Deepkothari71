@@ -27,7 +27,7 @@
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
 </div>
-
+ 
 ## Frontend
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" />
