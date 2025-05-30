@@ -124,9 +124,6 @@
 </div>
 
 
-###
-
-<img align="right" height="150" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=82a1493bdtxms33y8rifl3krztqtn2xx000m76onvv08762l&ep=v1_gifs_related&rid=200w.gif&ct=g"  />
 
 ###
 
