@@ -35,7 +35,6 @@
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo" />
   <img width="6" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo" />
 </div>
 
 ## Backend
