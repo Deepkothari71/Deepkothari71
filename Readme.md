@@ -93,8 +93,6 @@
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=threejs" height="30" alt="threejs logo" />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo" />
-  <img width="6" />
   <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo" />
 </div>
 
