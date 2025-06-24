@@ -108,7 +108,6 @@
   </a>
 </div>
 
-## GitHub 3D Contributions
 ###
   <img class="rounded-image" src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" alt="catu" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;" >
 
