@@ -107,9 +107,6 @@
   </a>
 </div>
 
-###
-  <img class="rounded-image" src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" alt="catu" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;" >
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=deepkothari71&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
