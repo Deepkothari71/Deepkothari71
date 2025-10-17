@@ -109,15 +109,16 @@
 
 
 # 📊 GitHub Stats:
-<div style="display: flex; flex-wrap: wrap; gap: 10; justify-content: center;">
+<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=deepkothari71&theme=dark&hide_border=false&include_all_commits=false&count_private=false&hide_rank=true&show_icons=true&line_height=30&card_width=400" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=deepkothari71&theme=dark&hide_border=false&include_all_commits=false&count_private=false&hide_rank=true&show_icons=true&line_height=30&card_width=400" height="180"/><br><br>
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=deepkothari71&theme=dark&hide_border=false&mode=weekly&card_width=400" height="180"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=deepkothari71&theme=dark&hide_border=false&mode=weekly&card_width=400" height="180"/><br><br>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepkothari71&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=400" height="180"/>
 
 </div>
+
 
 
 ### 🔝 Top Contributed Repo
