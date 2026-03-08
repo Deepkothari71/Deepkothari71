@@ -50,7 +50,8 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="30" alt="netlify logo" />
   <img width="6" />
-  <img src="https://cdn.simpleicons.org/heroku/430098" height="30" alt="heroku logo" />
+  <!-- <img src="https://cdn.simpleicons.org/heroku/430098" height="30" alt="heroku logo" />-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30" alt="heroku logo"  />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="30" alt="googlecloud logo" />
 </div>
@@ -69,7 +70,8 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="30" alt="figma logo" />
   <img width="6" />
-  <img src="https://cdn.simpleicons.org/canva/3B45D6" height="30" alt="canva logo" />
+  <!-- <img src="https://cdn.simpleicons.org/canva/3B45D6" height="30" alt="canva logo" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
   <img width="6" />
 </div>
 
@@ -110,19 +112,11 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=deepkothari71&theme=dark&hide_border=false&include_all_commits=false&count_private=false&hide_rank=true&show_icons=true&line_height=30&card_width=400" height="180"/><br>
-
+  
   <img src="https://nirzak-streak-stats.vercel.app/?user=deepkothari71&theme=dark&hide_border=false&mode=weekly&card_width=400" height="180"/><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepkothari71&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=400" height="180"/>
-
+  
 </div>
 
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=deepkothari71&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=deepkothari71&icon=0&color=0)](https://visitcount.itsvg.in)
 
